@@ -15,9 +15,15 @@ Set sail with Captain Z as she works to unravel the mysteries of Castle Island, 
 
 ## The Story
 
-bla bla bla
+Captain Z, our fearless protagonist, has landed in secret on Castle Island. With a map stolen from Captain Spears himself, she searches for the lost treasure said to be found on this desolate patch of land. 
+
+While Captain Z has dreams of gold and jewels, the treasure she finds is a mystery of mythic proportions! Now she must uncover its secrets while keeping it from her nemesis.
+
+With illustrations aplenty adorning this whimsical tale, Captain Z and the Treasure of Castle Island is sure to captivate the imagination of young and old alike.
 
 ## The Book
+
+Read the first five chapters here for free, then buy the book to continue the quest!
 
 Captain Z and the Treasure of Castle Island is available in paperback on Amazon!
 
