@@ -5,8 +5,7 @@ title: "Captian Z and the Treasure of Castle Island"
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/1600x800.gif">
-	<figcaption>Image caption.</figcaption>
+	<img src="{{ site.url }}/images/head1.jpg">
 </figure>
 
 Welcome to a world of Pirates! Treasure! and a bit of magic.
