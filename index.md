@@ -26,19 +26,30 @@ With illustrations aplenty adorning this whimsical tale, Captain Z and the Treas
 
 [Read the first five chapters here for free!]({{ site.url }}/resources/captain_z_sample.pdf)
 
-<img src="{{ site.url }}/images/cover.jpg">
+[Then buy the book to learn Castle Island's secrets!]()
 
-[Then buy the book to continue the quest!]()
+<a href=""><img src="{{ . }}/images/cover.jpg"></a>
 
-Captain Z and the Treasure of Castle Island is available in paperback on Amazon!
+Captain Z and the Treasure of Castle Island is available in [paperback on Amazon]().
 
 ## The Authors
 
-<div class="image-container left"><img src="images/victoria.jpg"/></div>
+<div class="row">
+<div class="profile-pic"><img src="images/victoria.jpg"/></div>
 
+<div class="description">
 Victoria Grace Elliott is an illustrator and storyteller whose passion is in expansive, long-form comics. Her work gives a sense of depth and detail without compromising any of its whimsy or magic. More of her stories can be read at Balderdash Comics and House of Orr.
+</div>
+</div>
 
-<div class="image-container right"><img src="images/jimmy.jpg"/></div>
+<div class="row">
+<br/><br/>
+</div>
 
+<div class="row">
+<div class="description-left">
 Jimmy Vallandingham is a father of a fearless girl whose name happens to be "Zia". Her unbridled energy provides the fodder for an untold number of stories showcasing her adventures.
+</div>
 
+<div class="profile-pic-right"><img src="images/jimmy.jpg"/></div>
+</div>

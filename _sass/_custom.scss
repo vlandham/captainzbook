@@ -1,4 +1,34 @@
 
+h1,h2,h3 {
+  font-family: 'Merriweather', serif;
+}
+
+.row {
+  @include outer-container;
+}
+
+.profile-pic {
+  @include span-columns(4);
+}
+
+.description {
+  @include span-columns(8);
+  @include omega();
+}
+
+.description-left {
+  @include span-columns(8);
+}
+
+.profile-pic-right {
+  @include span-columns(4);
+  @include omega();
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
 
 .left{
   float: left;
