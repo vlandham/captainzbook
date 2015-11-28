@@ -1,0 +1,7 @@
+[
+  {"id":"ship1","img":"ship1.png", "odirection": "right"},
+  {"id":"ship2","img":"ship2.png", "odirection":"left"},
+  {"id":"ship3","img":"ship3.png", "odirection":"left"},
+  {"id":"ship4","img":"ship4.png", "odirection":"left"},
+  {"id":"ship6","img":"ship6.png", "odirection":"left"}
+]

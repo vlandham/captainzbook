@@ -4,9 +4,12 @@ permalink: /
 title: "Captian Z and the Treasure of Castle Island"
 ---
 
+<div id="ships"></div>
+
 <figure>
-	<img src="{{ site.url }}/images/head1.jpg">
+	<img id="banner" src="{{ site.url }}/images/head1.jpg">
 </figure>
+
 
 Welcome to a world of Pirates! Treasure! and a bit of magic.
 
@@ -53,3 +56,4 @@ Jimmy Vallandingham is a father of a fearless girl whose name happens to be "Zia
 
 <div class="profile-pic-right"><img src="images/jimmy.jpg"/></div>
 </div>
+

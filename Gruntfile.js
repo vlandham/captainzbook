@@ -18,7 +18,7 @@ module.exports = function(grunt) {
         files: [
           '<%= jshint.all %>'
         ],
-        tasks: ['jshint', 'uglify'],
+        tasks: [ 'uglify'],
         options: {
           livereload: true
         }
@@ -28,7 +28,7 @@ module.exports = function(grunt) {
       dist: {
         options: {
           banner: '/*! <%= pkg.name %> - v<%= pkg.version %> - ' + '<%= grunt.template.today("yyyy-mm-dd") %> */',
-          compress: true,
+          compress: {},
           beautify: false,
           mangle: false
         },

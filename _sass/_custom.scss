@@ -28,6 +28,13 @@ h1,h2,h3 {
 img {
     display: block;
     margin: 0 auto;
+    z-index: 20;
+}
+
+#ships img {
+  position: absolute;
+  display: block;
+  margin: 0;
 }
 
 .left{
@@ -36,5 +43,37 @@ img {
 
 .right{
   float: left;
+}
+
+.flip-horizontal {
+  -moz-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  transform: scaleX(-1);
+  -ms-filter: fliph; /*IE*/
+  filter: fliph;
+}
+
+.flip-vertical {
+  -moz-transform: scaleY(-1);
+  -webkit-transform: scaleY(-1);
+  -o-transform: scaleY(-1);
+  transform: scaleY(-1);
+  -ms-filter: flipv; /*IE*/
+  filter: flipv;
+}
+
+#ships {
+  position:absolute;
+  left:0;
+  top:0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index:10;
+}
+
+.ship {
+  pointer-events:none;
 }
 
