@@ -29,11 +29,11 @@ With illustrations aplenty adorning this whimsical tale, Captain Z and the Treas
 
 [Read the first eight chapters here for free!]({{ site.url }}/resources/captain_z_sample.pdf)
 
-[Then buy the book to learn Castle Island's secrets!]()
+[Then buy the book to learn Castle Island's secrets!](http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/)
 
-<a href=""><img src="{{ site.url }}/images/cover.jpg"></a>
+<a href="http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/"><img src="{{ site.url }}/images/cover.jpg"></a>
 
-Captain Z and the Treasure of Castle Island is available in [paperback on Amazon]() or [CreateSpace](https://www.createspace.com/4981594).
+Captain Z and the Treasure of Castle Island is available in [paperback on Amazon](http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/) or [CreateSpace](https://www.createspace.com/4981594).
 
 ## The Authors
 
