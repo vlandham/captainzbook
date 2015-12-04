@@ -27,11 +27,11 @@ But discovering the secret of Castle Island is just the beginning of Captain Z's
 
 With illustrations aplenty adorning this whimsical tale, Captain Z and the Treasure of Castle Island is sure to captivate the imagination of young and old alike.
 
-[Read the first five chapters here for free!]({{ site.url }}/resources/captain_z_sample.pdf)
+[Read the first eight chapters here for free!]({{ site.url }}/resources/captain_z_sample.pdf)
 
 [Then buy the book to learn Castle Island's secrets!]()
 
-<a href=""><img src="{{ . }}/images/cover.jpg"></a>
+<a href=""><img src="{{ site.url }}/images/cover.jpg"></a>
 
 Captain Z and the Treasure of Castle Island is available in [paperback on Amazon]().
 
