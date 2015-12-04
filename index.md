@@ -33,7 +33,7 @@ With illustrations aplenty adorning this whimsical tale, Captain Z and the Treas
 
 <a href=""><img src="{{ site.url }}/images/cover.jpg"></a>
 
-Captain Z and the Treasure of Castle Island is available in [paperback on Amazon]().
+Captain Z and the Treasure of Castle Island is available in [paperback on Amazon]() or [CreateSpace](https://www.createspace.com/4981594).
 
 ## The Authors
 
