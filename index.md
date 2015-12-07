@@ -10,6 +10,7 @@ title: "Captian Z and the Treasure of Castle Island"
 	<img id="banner" src="{{ site.url }}/images/head1.jpg">
 </figure>
 
+<h1>{{ page.title }}</h1>
 
 Welcome to a world of Pirates! Treasure! and a bit of magic.
 
@@ -27,13 +28,15 @@ But discovering the secret of Castle Island is just the beginning of Captain Z's
 
 With illustrations aplenty adorning this whimsical tale, Captain Z and the Treasure of Castle Island is sure to captivate the imagination of young and old alike.
 
-[Read the first eight chapters here for free!]({{ site.url }}/resources/captain_z_sample.pdf)
+[Read the first Eight Chapters for free!]({{ site.url }}/resources/captain_z_sample.pdf)
 
 [Then buy the book to learn Castle Island's secrets!](http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/)
 
 <a href="http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/"><img src="{{ site.url }}/images/cover.jpg"></a>
 
-Captain Z and the Treasure of Castle Island is available in [paperback on Amazon](http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/) or [CreateSpace](https://www.createspace.com/4981594).
+Captain Z and the Treasure of Castle Island is available in [paperback & kindle on Amazon](http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/).
+
+<a href="http://www.amazon.com/Captain-Z-Treasure-Castle-Island/dp/1501048449/"><img src="{{ site.url }}/images/amazon.jpg"></a>
 
 ## The Authors
 
@@ -56,4 +59,3 @@ Jimmy Vallandingham is a father of a fearless girl whose name happens to be "Zia
 
 <div class="profile-pic-right"><img src="images/jimmy.jpg"/></div>
 </div>
-
