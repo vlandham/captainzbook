@@ -11,6 +11,13 @@
     {% include open-graph.html %}
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@vlandham">
+    <meta name="twitter:creator" content="@vlandham">
+    <meta name="twitter:title" content="Captain Z and the Treasure of Castle Island">
+    <meta name="twitter:description" content="A book by Jimmy Vallandingham.">
+    <meta name="twitter:image:src" content="http://captainzbook.com/images/head_twitter.jpg">
+
     <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
