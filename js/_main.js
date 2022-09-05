@@ -78,5 +78,5 @@ $(document).ready(function(){
 	// Target your .container, .wrapper, .post, etc.
 	$("#main").fitVids();
 
-  d3.json("/js/data/ships.json", display);
+  d3.json("/captainzbook/js/data/ships.json", display);
 });
