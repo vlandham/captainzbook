@@ -5,7 +5,7 @@ description: Captain Z and the Treasure of Castle Island
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://captainzbook.com
+url: https://vallandingham.me/captainzbook
 #url: http://localhost:4000
 
 # Jekyll configuration
