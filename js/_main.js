@@ -65,7 +65,7 @@ function display(error, data) {
   ships.selectAll(".ship").data(data)
   .enter()
   .append("img")
-  .attr("src", function(d) { return "/images/ships/" + d.img; })
+  .attr("src", function(d) { return "/captainzbook/images/ships/" + d.img; })
   .style("height", 100 + "px")
   .style("opacity", 0.0)
   .attr("class", "ship")
